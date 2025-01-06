@@ -4,7 +4,7 @@
 <div>
 <h4>🐱‍👤 João Pedro</h4>
 <h4>🔥 18 Years Old</h4>
-<h4>⚽ Brazilian</h4>
+<h4>🇧🇷/🇬🇧</h4>
 <h4>💻 Developer</h4>
 <h4>🕵 Bug Hunter</h4>
 <h4>🕹 FiveM</h4>
