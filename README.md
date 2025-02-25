@@ -35,8 +35,8 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 <h3>🏆 Github Stats</h3>
  <div style="display: inline-block;">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=felpsdev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=3b86ff&icon_color=3b86ff&hide_border=true&bg_color=0d1117"/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsdev&layout=compact&theme=dark&title_color=3b86ff&icon_color=3b86ff&hide_border=true&bg_color=0d1117&count_private=true"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jheype&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=3b86ff&icon_color=3b86ff&hide_border=true&bg_color=0d1117"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheype&layout=compact&theme=dark&title_color=3b86ff&icon_color=3b86ff&hide_border=true&bg_color=0d1117&count_private=true"/>
 </div>
 <br>
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
