@@ -38,6 +38,5 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jheype&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=5734bf&icon_color=744fe3&hide_border=true&bg_color=0d1117"/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheype&layout=compact&theme=dark&title_color=5734bf&icon_color=744fe3&hide_border=true&bg_color=0d1117&count_private=true"/>
 </div>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=jheype&layout=compact&langs_count=4&theme=dark&hide_border=true&bg_color=0d1117&color=5734bf&line=744fe3" />
 <br>
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
