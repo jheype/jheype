@@ -3,7 +3,7 @@
 <img align="right" alt="PC GIF" src="https://clasherbros.github.io/images/giphy.gif" width="400px" />
 <div>
 <h4>🐱‍👤 João Pedro</h4>
-<h4>🔥 18 Years Old</h4>
+<h4>🔥 19 Years Old</h4>
 <h4>🇧🇷/🇬🇧</h4>
 <h4>💻 Developer</h4>
 <br>
